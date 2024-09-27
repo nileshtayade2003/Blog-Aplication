@@ -26,11 +26,16 @@ cd your-repo-name
 
 ### 2. Setup frontend 
   cd react-blog-app
+  
   npm install
+  
   npm run dev
+  
 ### 3. Setup backend
   cd blog-api
+  
   npm install
+  
   npm start
 ### 4. go to 
   http://localhost:5173
